@@ -1,4 +1,4 @@
-# 🔐 Primeros Pasos Cifrando — Aplicación Web de Cifrado Clásico
+# 🔐 Primeros Pasos Cifrando 
 
 Aplicación interactiva desarrollada con **HTML, CSS y JavaScript puro** que permite cifrar y descifrar mensajes utilizando algoritmos clásicos de criptografía:
 
